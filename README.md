@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Just another repository... 
+Hello World! My name is nschleppe.
